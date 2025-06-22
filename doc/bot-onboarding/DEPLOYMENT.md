@@ -7,7 +7,6 @@ Ce guide vous explique comment déployer l'application, qui se compose d'un back
 Pour déployer ce projet, vous aurez besoin des outils suivants installés sur votre serveur :
 - **Git**
 - **Docker**
-- **Docker Compose**
 
 ## 2. Structure du Projet
 
